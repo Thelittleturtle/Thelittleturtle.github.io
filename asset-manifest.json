@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/weather-app-react/static/css/main.2f21396f.chunk.css",
-    "main.js": "/weather-app-react/static/js/main.46c8b12c.chunk.js",
-    "main.js.map": "/weather-app-react/static/js/main.46c8b12c.chunk.js.map",
-    "runtime-main.js": "/weather-app-react/static/js/runtime-main.4ee40ab0.js",
-    "runtime-main.js.map": "/weather-app-react/static/js/runtime-main.4ee40ab0.js.map",
-    "static/js/2.9137adfd.chunk.js": "/weather-app-react/static/js/2.9137adfd.chunk.js",
-    "static/js/2.9137adfd.chunk.js.map": "/weather-app-react/static/js/2.9137adfd.chunk.js.map",
-    "index.html": "/weather-app-react/index.html",
-    "precache-manifest.89e83a2c15ac9d66c3375b0db43f9fae.js": "/weather-app-react/precache-manifest.89e83a2c15ac9d66c3375b0db43f9fae.js",
-    "service-worker.js": "/weather-app-react/service-worker.js",
-    "static/css/main.2f21396f.chunk.css.map": "/weather-app-react/static/css/main.2f21396f.chunk.css.map",
-    "static/js/2.9137adfd.chunk.js.LICENSE.txt": "/weather-app-react/static/js/2.9137adfd.chunk.js.LICENSE.txt",
-    "static/media/index.sass": "/weather-app-react/static/media/2850815.246c1201.jpg"
+    "main.css": "/my-app/static/css/main.96b9269d.chunk.css",
+    "main.js": "/my-app/static/js/main.0ecbbcb6.chunk.js",
+    "main.js.map": "/my-app/static/js/main.0ecbbcb6.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.5a36c47d.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.5a36c47d.js.map",
+    "static/js/2.682ea55d.chunk.js": "/my-app/static/js/2.682ea55d.chunk.js",
+    "static/js/2.682ea55d.chunk.js.map": "/my-app/static/js/2.682ea55d.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.c543fb8cbda072cf461fd27d1aa73930.js": "/my-app/precache-manifest.c543fb8cbda072cf461fd27d1aa73930.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.96b9269d.chunk.css.map": "/my-app/static/css/main.96b9269d.chunk.css.map",
+    "static/js/2.682ea55d.chunk.js.LICENSE.txt": "/my-app/static/js/2.682ea55d.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/my-app/static/media/2850815.246c1201.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ee40ab0.js",
-    "static/js/2.9137adfd.chunk.js",
-    "static/css/main.2f21396f.chunk.css",
-    "static/js/main.46c8b12c.chunk.js"
+    "static/js/runtime-main.5a36c47d.js",
+    "static/js/2.682ea55d.chunk.js",
+    "static/css/main.96b9269d.chunk.css",
+    "static/js/main.0ecbbcb6.chunk.js"
   ]
 }
